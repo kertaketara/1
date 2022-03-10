@@ -1,0 +1,74 @@
+ a {
+  color: #000000;
+  text-decoration: none;
+}
+
+body {
+  background-color:#dddddd;
+  font-family: consolas;
+}
+
+
+h2 {
+	padding=0;
+}
+
+
+h3 {
+	color:#dddddd;
+}
+
+img {
+	height:250px;
+}
+
+#album {
+	display:inline-block;
+	float:center;
+	text-align:center;
+	width:400px;
+}
+
+#content {
+  float:right;
+  padding:1%;
+  width:80%;
+}
+
+#cover {
+	float:left;
+	width:100px;
+}
+
+#footer {
+  color:#dddddd;
+  clear:both;
+  text-align:right;
+}
+
+#header {
+  font-family:arial;
+  text-align:center;
+}
+
+#info {
+	float:right;
+	text-align:center;
+	width:30%;
+}
+
+#navigation {
+  float:left;
+  width:15%;
+}
+
+#page {
+  background-color: #ffffff;
+  border-color: #888888;
+  border-style:solid;
+  border-width:5%;
+  margin: auto;
+  padding:1%;
+  width: 45%;
+}
+
